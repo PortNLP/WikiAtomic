@@ -2,7 +2,7 @@
 This repository hosts the dataset associated with our paper titled “[When Context Leads but Parametric Memory Follows in Large Language Models](https://arxiv.org/abs/2409.08435)”. Our work has been accepted for presentation at the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP).
 
 ## Dataset Overview
-- wikiatomic.csv: Contains all 10,000 atomic sentences seperated by topics (200 topics, 50 atomic sentences each).
+- wikiatomic.csv: Contains all 10,000 atomic sentences seperated by topics (~200 topics, 50 atomic sentences each).
 - subdatasets for each model: The folder contains 9 csv files that each one contains questions we used in our paper and corresponding responses from each LLM.
   
 ## Acknowledgments
